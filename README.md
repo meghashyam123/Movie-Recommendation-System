@@ -1,4 +1,5 @@
 🎬 Movie Recommendation System 🎥
+
 A Flask-based movie recommendation system that suggests movies based on user preferences. Built using Flask, NumPy, and Pandas, this app processes movie data and provides personalized recommendations.
 
 🛠️ Tech Stack
