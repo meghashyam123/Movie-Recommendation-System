@@ -1,4 +1,4 @@
-🎬 Movie Recommendation System 🎥
+![image](https://github.com/user-attachments/assets/576c2e56-7213-4f38-ac01-414b8421a870)🎬 Movie Recommendation System 🎥
 
 A Flask-based movie recommendation system that suggests movies based on user preferences. Built using Flask, NumPy, and Pandas, this app processes movie data and provides personalized recommendations.
 
@@ -43,3 +43,9 @@ http://127.0.0.1:5000/
 ✅ Improve UI with React or Vue.js.
 
 ✅ Deploy on Heroku / AWS / Render.
+
+
+
+FLask Web App -
+
+![image](https://github.com/user-attachments/assets/d5d9925f-af7a-41b5-b833-40c3d4328d6c)
