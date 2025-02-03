@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/576c2e56-7213-4f38-ac01-414b8421a870)🎬 Movie Recommendation System 🎥
+🎬 Movie Recommendation System 🎥
 
 A Flask-based movie recommendation system that suggests movies based on user preferences. Built using Flask, NumPy, and Pandas, this app processes movie data and provides personalized recommendations.
 
